@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandu-2003&label=Profile%20views&color=0e75b6&style=flat" alt="nandu-2003" /> </p>
 
-- 🔭 I’m currently working on **"Blockchain-Based KYC Model for Credit Allocation in Banking"**
+- 🔭 I’m currently working on **"Simple Bank - My Expense Tracker App"**
 
 - 🌱 I’m currently learning **Advanced Android development , Product Management, Enhancing Problem Solving Skills**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **img_2021046@gmail.com**
 
-- 🏆 Honours and Achievements **GHC SCHOLAR '2024 awarded by AnitaB.org**
+- 🏆 Honours and Achievements **Mercari Women Hackathon Winner 2024, AMLSS '24 , GHC and GHCI '24 Shcolar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
